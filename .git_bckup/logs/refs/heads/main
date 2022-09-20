@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 691b0c9abc5087903a5595de91f595fc857b3b88 albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633428 +0700	clone: from https://github.com/albertbisma/cimb_niaga.git
+691b0c9abc5087903a5595de91f595fc857b3b88 8f22f456cc3325c77935fb4fc2eefb32d8761956 albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633793 +0700	commit: Initiate commit for project cimb-niaga pegawai
+8f22f456cc3325c77935fb4fc2eefb32d8761956 b76585d34f426626686c5fbc43c3b6e951b1f192 albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633831 +0700	commit: Create config for swagger as API Documentation
+b76585d34f426626686c5fbc43c3b6e951b1f192 4cb41dd8d0f38226361d3dee2d4c5d2dcbb687ee albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633847 +0700	commit: Create Entity Pegawai
+4cb41dd8d0f38226361d3dee2d4c5d2dcbb687ee da7363348c6fb13e5393747fa627dbfa7dcfabed albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633879 +0700	commit: Create model for request & response for pegawai
+da7363348c6fb13e5393747fa627dbfa7dcfabed 93854af6f3e6fc832ddab1693a2a4225c4587edf albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633915 +0700	commit: Create repository & service for pegawai
+93854af6f3e6fc832ddab1693a2a4225c4587edf 16fb6f4b0630075ce89a041a42d1aa030db25188 albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633950 +0700	commit: Create controller for get & post pegawai
+16fb6f4b0630075ce89a041a42d1aa030db25188 785c1bbf4b6a9039792a5f76aed614d6d1058915 albertbisma <50725100+albertbisma@users.noreply.github.com> 1619633972 +0700	commit: Create Unit Test for get & post pegawai
+785c1bbf4b6a9039792a5f76aed614d6d1058915 ecd4bf47c4ee8e216b6c5f752f54a3bcb66b1bd1 albertbisma <50725100+albertbisma@users.noreply.github.com> 1663688567 +0700	commit: First commit
+ecd4bf47c4ee8e216b6c5f752f54a3bcb66b1bd1 13e4b0ba9d9341ab34fd7b53a5b082b70577b9e8 albertbisma <50725100+albertbisma@users.noreply.github.com> 1663688602 +0700	pull origin main: Merge made by the 'recursive' strategy.
+13e4b0ba9d9341ab34fd7b53a5b082b70577b9e8 40258409db2e3f77d53b435c8ed0be075fc519f2 Albert Bisma <albertbisma@ymail.com> 1663689190 +0700	commit: Revert "Merge branch 'main' of https://github.com/albertbisma/cimb_niaga into main"
+40258409db2e3f77d53b435c8ed0be075fc519f2 6d55ae04782771258861f7833b1a9ce9f47a3fe7 Albert Bisma <albertbisma@ymail.com> 1663689198 +0700	commit: Revert "First commit"
+6d55ae04782771258861f7833b1a9ce9f47a3fe7 ecd4bf47c4ee8e216b6c5f752f54a3bcb66b1bd1 albertbisma <50725100+albertbisma@users.noreply.github.com> 1663689277 +0700	reset: moving to ecd4bf47c4ee8e216b6c5f752f54a3bcb66b1bd1

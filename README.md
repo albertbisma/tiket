@@ -1,4 +1,4 @@
-# cimb_niaga
+# Pegawai
 
 For Access API pegawai you can clone from this repository than run on your favorite IDE.
 
